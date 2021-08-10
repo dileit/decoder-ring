@@ -2,7 +2,7 @@ const polybiusModule = (function () {
 	// global square variables
 
 	const alphabet = {
-		a: ""11",
+		a: "11",
 		b: "21",
 		c: "31",
 		d: "41",
